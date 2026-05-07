@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pymupdf
+pdfplumber
+langchain
+langchain-openai
+langchain-community
+sentence-transformers
+faiss-cpu
+streamlit
+python-dotenv
+pydantic
+openai
+tiktoken
